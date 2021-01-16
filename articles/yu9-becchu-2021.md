@@ -3,7 +3,7 @@ title: "趣味で開発したWebアプリケーションの私的まとめ ～�
 emoji: "👕"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["php", "suzuri", "api"]
-published: false
+published: true
 ---
 これまでに趣味で3つほどWebアプリケーションを開発しました。その当時を振り返りながら、まとめていきます。
 ## 開発したWebアプリケーション
