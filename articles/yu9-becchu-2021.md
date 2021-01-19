@@ -9,9 +9,9 @@ published: true
 ## 開発したWebアプリケーション
 1. [クリエイターサポートツール](https://creator-support-tool.yu-9.work/)
   SUZURI APIを利用し、商品情報を取得、商品画像からSNS用のPR画像を生成できるアプリケーション
-3. [BECCHU](http://becchu.yu-9.work/)
+2. [BECCHU](http://becchu.yu-9.work/)
   あらかじめ登録されたデザインを選択し、色を自由にカスタマイズしてTシャツを作成できるWebアプリケーション
-5. [BUMESHI!!](https://bumeshi-eat.herokuapp.com/)
+3. [BUMESHI!!](https://bumeshi-eat.herokuapp.com/)
   美味しいものを共有する飲食店レビューサイト、現在開発中 
   
 今回はBECCHUについて、まとめます。
@@ -45,7 +45,6 @@ https://award.camp-fire.jp/2019/
   - php
   契約しているサーバーがphpかrubyに対応して、どちらかにするか決めることになります。今回はフレームワークを用いる前提だったのですが、サーバーがruby on railsには対応していなかったため、phpを使いました。
   - html, css
-   sassやscssはこの当時知りませんでした。
 - フレームワーク
   - Laravel
     フレームワークを使いませんでしたが、静的なサイトを改修する際に、Bulmaやbootstrapに触れ、フレームワーク便利ーーーー！！となり今回Laravelを使用することにしました。
