@@ -38,7 +38,7 @@ https://github.com/YU9-30/bumeshi_web
 ## デザイン
 色は飲食店が関連するサイトであるため、青などの色は避けました。マルゲリータが好きだったので、赤色にしました。
 各要素はできる限り、角を丸くして優しい雰囲気になるようにしました。
-
+![](https://storage.googleapis.com/zenn-user-upload/qhtqws5ldombxlm78zhm3d6z5hvt)
 ## 言語やインフラの選定など
 - 言語
   - Ruby
