@@ -7,11 +7,11 @@ published: true
 ---
 これまでに趣味で3つほどWebアプリケーションを開発しました。その当時を振り返りながら、まとめていきます。
 ## 開発したWebアプリケーション
-1. [クリエイターサポートツール](https://creator-support-tool.yu-9.work/)
+1. [クリエイターサポートツール](https://creator-support-tool.yu-9.work/)([zennの記事](https://zenn.dev/yu_9/articles/5fa3a6c9332afd))
   SUZURI APIを利用し、商品情報を取得、商品画像からSNS用のPR画像を生成できるアプリケーション
 2. [BECCHU](http://becchu.yu-9.work/)
   あらかじめ登録されたデザインを選択し、色を自由にカスタマイズしてTシャツを作成できるWebアプリケーション
-3. [BUMESHI!!](https://bumeshi-eat.herokuapp.com/)
+3. [BUMESHI!!](https://bumeshi-eat.herokuapp.com/)([zennの記事](https://zenn.dev/yu_9/articles/yu9-bumeshi-2021))
   美味しいものを共有する飲食店レビューサイト、現在開発中 
   
 今回はBECCHUについて、まとめます。
@@ -87,3 +87,5 @@ https://zenn.dev/yu_9/scraps/74ec6afe198058
   現在のシステムでは、単色のデザインしか利用できないので、色ごとに画像を分けて、色をそれぞれ個別に設定し、一枚の画像にするようにしたい。
 ## 最後に
 次はBUMESHI!!について、まとめたいとおもいます。
+
+次の記事：[BUMESHI!!](https://zenn.dev/yu_9/articles/yu9-bumeshi-2021)
