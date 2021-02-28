@@ -1,5 +1,5 @@
 ---
-title: "Vue.jsとmicroCMSで更新しやすいポートフォリオサを作成"
+title: "Vue.jsとmicroCMSで更新しやすいポートフォリオを作成"
 emoji: "😎"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["vue", "tailwindcss", "microcms"]
