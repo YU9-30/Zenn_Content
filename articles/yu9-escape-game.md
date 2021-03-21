@@ -3,7 +3,7 @@ title: "送別会で遊ぶ脱出ゲーム作った際の反省点"
 emoji: "😢"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["vue", "netlify"]
-published: ture
+published: true
 ---
 
 # 作った理由
